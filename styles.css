@@ -1,0 +1,36 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+/* h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-style: italic;
+} */
+
+.bi-circle-fill {
+    font-size: 0.5em;
+}
+
+.bi-filetype-js {
+    font-size: 3em;
+    color: yellow;
+}
+
+.bi-filetype-html {
+    font-size: 3em;
+    color: orange;
+}
+.bi-filetype-css {
+    font-size: 3em;
+    color: blue;
+}
+.bi-bootstrap {
+    font-size: 3em;
+    color: purple;
+}
+
+.bi-filetype-rb {
+    font-size: 3em;
+    color: red;
+}
