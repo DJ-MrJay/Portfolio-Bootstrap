@@ -18,9 +18,3 @@ Contributions and feature requests are welcome!
 ## Show your support
 
 Give ⭐️⭐️⭐️⭐️⭐️ if you like this project!
-
-## Github Page
-
-## License
-
-This project is [MIT](./MIT.md) licensed.
