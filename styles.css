@@ -2,11 +2,11 @@
     font-family: 'Inter', sans-serif;
 }
 
-/* h1 {
+h1 {
     font-family: 'Playfair Display', serif;
-    font-weight: 600;
-    font-style: italic;
-} */
+    font-weight: 400;
+    font-style: normal;
+}
 
 .bi-circle-fill {
     font-size: 0.5em;
